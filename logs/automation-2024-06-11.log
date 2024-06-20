@@ -1,0 +1,42 @@
+12:17:40.929 [main] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - validating LoanAmount calculator FeesAndCharges
+12:17:42.726 [main] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - Textbox displayed
+12:17:42.765 [main] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - textBox Enabled
+12:17:42.800 [main] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - Slider displayed
+12:17:42.822 [main] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - Slider enabled
+12:17:42.832 [main] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - --->closing the browser
+12:17:44.880 [main] INFO  testcases.Tc_003_010_UI_ValidatingLoanAmountcalculator_YearAndMonth - ---> Starting chrome
+12:17:49.367 [main] INFO  testcases.Tc_003_010_UI_ValidatingLoanAmountcalculator_YearAndMonth - --->getting url from properties file
+12:17:52.947 [main] INFO  testcases.Tc_003_010_UI_ValidatingLoanAmountcalculator_YearAndMonth - validating LoanAmount calculator YearAndMonth
+12:17:54.888 [main] INFO  testcases.Tc_003_010_UI_ValidatingLoanAmountcalculator_YearAndMonth - Year And Month verified
+12:17:54.891 [main] INFO  testcases.Tc_003_010_UI_ValidatingLoanAmountcalculator_YearAndMonth - --->closing the browser
+12:17:56.897 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - ---> Starting chrome
+12:18:01.143 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - --->getting url from properties file
+12:18:04.720 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - validating LoanTenture calculator LoanAmount
+12:18:05.880 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - Textbox displayed
+12:18:05.904 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - textBox Enabled
+12:18:05.939 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - Slider displayed
+12:18:05.968 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - Slider enabled
+12:18:05.972 [main] INFO  testcases.Tc_003_011_UI_ValidatingLoanTenturecalculator_LoanAmount - --->closing the browser
+12:18:07.962 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - ---> Starting chrome
+12:18:12.350 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - --->getting url from properties file
+12:18:15.809 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - validating LoanTenture calculator EMI
+12:18:17.621 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - Textbox displayed
+12:18:17.654 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - textBox Enabled
+12:18:17.698 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - Slider displayed
+12:18:17.724 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - Slider enabled
+12:18:17.726 [main] INFO  testcases.Tc_003_012_UI_ValidatingLoanTenturecalculator_EMI - --->closing the browser
+12:18:19.587 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - ---> Starting chrome
+12:18:23.723 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - --->getting url from properties file
+12:18:27.199 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - validating LoanTenture calculator InterestRate
+12:18:29.020 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - Textbox displayed
+12:18:29.040 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - textBox Enabled
+12:18:29.072 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - Slider displayed
+12:18:29.089 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - Slider enabled
+12:18:29.091 [main] INFO  testcases.Tc_003_013_UI_ValidatingLoanTenturecalculator_InterestRate - --->closing the browser
+12:18:31.040 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - ---> Starting chrome
+12:18:35.243 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - --->getting url from properties file
+12:18:38.778 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - validating LoanTenture calculator FeesAndCharges
+12:18:40.057 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - Textbox displayed
+12:18:40.086 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - textBox Enabled
+12:18:40.131 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - Slider displayed
+12:18:40.152 [main] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - Slider enabled

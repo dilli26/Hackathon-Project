@@ -25,20 +25,14 @@ public void writeinTable(List<String> str) {
 			{
 			row.createCell(j).setCellValue(str.get(temp));
 			
-			System.out.println(str.get(temp));
+
 			temp++;
 			
 			}
-			System.out.println();
 			
 		}
-//		for(int i=0;i<str.size();i++)
-//		{
-//		XSSFRow row=sheet.createRow(0);
-//		row.createCell(i).setCellValue(str.get(i));
-//		}
-		wbook.write(out);
-		
+
+		wbook.write(out);		
 		wbook.close();
 		out.close();
 	    System.out.println("Output succesfully write in excel file");

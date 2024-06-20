@@ -2,7 +2,9 @@ package testcases;
 
 import org.testng.annotations.Test;
 
+
 import driverUtility.DriverSetup;
+import outputUtility.ScreenShot;
 import pageObject.PageObject;
 
 public class Tc_001_CarLoan extends DriverSetup{
@@ -21,6 +23,7 @@ public class Tc_001_CarLoan extends DriverSetup{
 		
 		String totalamount=p.Totalamount();//getting the total amount
 		System.out.println("Total Amount = "+totalamount);
+		ScreenShot.takeScreenshot(driver);
 	}
 
 }

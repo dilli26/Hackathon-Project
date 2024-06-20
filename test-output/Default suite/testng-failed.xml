@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.Tc_001_CarLoan">
+      <class name="testcases.Tc_003_001_UI_ValidatingEMIcalculator_LoanAmount">
         <methods>
-          <include name="driverSet"/>
-          <include name="validateCarLoan"/>
-          <include name="tearDown"/>
+          <include name="validatingEMIcalculator_LoanAmount"/>
+          <include name="driverSetup"/>
+          <include name="browserClose"/>
         </methods>
-      </class> <!-- testcases.Tc_001_CarLoan -->
+      </class> <!-- testcases.Tc_003_001_UI_ValidatingEMIcalculator_LoanAmount -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

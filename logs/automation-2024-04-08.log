@@ -1,0 +1,39 @@
+16:39:45.561 [TestNG-test-Test-3] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - --->closing the browser
+16:39:45.563 [TestNG-test-Test-5] INFO  testcases.Tc_003_014_UI_ValidatingLoanTenturecalculator_FeesAndCharges - --->closing the browser
+16:41:02.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318936\eclipse-workspace\HackertanProject\parallel.xml
+
+16:41:03.151 [TestNG-test-Test-3] INFO  testcases.Tc_003_001_UI_ValidatingEMIcalculator_LoanAmount - ---> Starting chrome
+16:41:03.151 [TestNG-test-Test-2] INFO  testcases.Tc_002_HomeLoan - ---> Starting chrome
+16:41:03.151 [TestNG-test-Test-5] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - ---> Starting chrome
+16:41:03.151 [TestNG-test-Test-4] INFO  testcases.Tc_003_002_UI_ValidatingEMIcalculator_InterestRate - ---> Starting chrome
+16:41:11.248 [TestNG-test-Test-4] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - --->getting url from properties file
+16:41:11.248 [TestNG-test-Test-5] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - --->getting url from properties file
+16:41:14.102 [TestNG-test-Test-2] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - --->getting url from properties file
+16:41:16.233 [TestNG-test-Test-3] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - --->getting url from properties file
+16:41:25.685 [TestNG-test-Test-4] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - valildating  EMI calculator InterestRate
+16:41:25.747 [TestNG-test-Test-5] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - valildating  EMI calculator LoanTenture
+16:41:25.748 [TestNG-test-Test-2] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - valildating HomeLoan 
+16:41:25.761 [TestNG-test-Test-3] INFO  testcases.Tc_003_003_UI_ValidatingEMIcalculator_LoanTenure - valildating  EMI calculator LoanAmount
+16:41:29.519 [TestNG-test-Test-1] INFO  testcases.Tc_003_004_UI_ValidatingEMIcalculator_FeesAndCharges - ---> Starting chrome
+16:41:34.302 [TestNG-test-Test-1] INFO  testcases.Tc_003_004_UI_ValidatingEMIcalculator_FeesAndCharges - --->getting url from properties file
+16:41:36.311 [TestNG-test-Test-4] INFO  testcases.Tc_003_004_UI_ValidatingEMIcalculator_FeesAndCharges - --->closing the browser
+16:41:43.479 [TestNG-test-Test-4] INFO  testcases.Tc_003_005_UI_ValidatingEMIcalculator_YearAndMonth - ---> Starting chrome
+16:41:46.415 [TestNG-test-Test-5] INFO  testcases.Tc_003_005_UI_ValidatingEMIcalculator_YearAndMonth - --->closing the browser
+16:41:46.416 [TestNG-test-Test-5] INFO  testcases.Tc_003_006_UI_ValidatingLoanAmountcalculator_Emi - ---> Starting chrome
+16:41:49.084 [TestNG-test-Test-4] INFO  testcases.Tc_003_006_UI_ValidatingLoanAmountcalculator_Emi - --->getting url from properties file
+16:41:52.359 [TestNG-test-Test-5] INFO  testcases.Tc_003_006_UI_ValidatingLoanAmountcalculator_Emi - --->getting url from properties file
+16:41:56.502 [TestNG-test-Test-2] INFO  testcases.Tc_003_006_UI_ValidatingLoanAmountcalculator_Emi - --->closing the browser
+16:41:59.855 [TestNG-test-Test-4] INFO  testcases.Tc_003_006_UI_ValidatingLoanAmountcalculator_Emi - valildating  EMI calculator YearAndMonth
+16:41:59.864 [TestNG-test-Test-4] INFO  testcases.Tc_003_006_UI_ValidatingLoanAmountcalculator_Emi - --->closing the browser
+16:42:01.029 [TestNG-test-Test-2] INFO  testcases.Tc_003_007_UI_ValidatingLoanAmountcalculator_InterestRate - ---> Starting chrome
+16:42:01.034 [TestNG-test-Test-4] INFO  testcases.Tc_003_008_UI_ValidatingLoanAmountcalculator_LoanTenture - ---> Starting chrome
+16:42:06.585 [TestNG-test-Test-3] INFO  testcases.Tc_003_008_UI_ValidatingLoanAmountcalculator_LoanTenture - --->closing the browser
+16:42:06.589 [TestNG-test-Test-3] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - ---> Starting chrome
+16:42:06.733 [TestNG-test-Test-2] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - --->getting url from properties file
+16:42:07.569 [TestNG-test-Test-4] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - --->getting url from properties file
+16:42:13.348 [TestNG-test-Test-3] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - --->getting url from properties file
+16:42:17.427 [TestNG-test-Test-2] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - validating LoanAmount calculator InterestRate
+16:42:20.742 [TestNG-test-Test-4] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - validating LoanAmount calculator LoanTenture
+16:42:20.806 [TestNG-test-Test-3] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - validating LoanAmount calculator FeesAndCharges
+16:42:33.535 [TestNG-test-Test-4] INFO  testcases.Tc_003_009_UI_ValidatingLoanAmountcalculator_FeesAndCharges - --->closing the browser

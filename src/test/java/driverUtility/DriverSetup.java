@@ -32,16 +32,16 @@ public class DriverSetup {
 @BeforeClass
 @Parameters({"browser"})
 public void driverSetup(String browserName) throws InterruptedException{
-	//l=LogManager.getLogger(getClass());
+	 l=LogManager.getLogger(getClass());
 
 	if(browserName.equalsIgnoreCase("chrome")) {
-		//l.info("---> Starting chrome");
+		l.info("---> Starting chrome");
 		driver = new ChromeDriver();
 	}else if(browserName.equalsIgnoreCase("edge")){
-		//l.info("---> Starting edge");
+		l.info("---> Starting edge");
 		driver = new EdgeDriver();
 	}else {
-		//l.info("Invalid Browser");
+		l.info("Invalid Browser");
 	}
 	String url="";
 	try {
@@ -49,10 +49,11 @@ public void driverSetup(String browserName) throws InterruptedException{
 		FileReader file = new FileReader("./src/test/resources/Properties.properties");
 		Properties p = new Properties();
 		p.load(file);
+		l.info("--->getting url from properties file");
 		url = p.getProperty("url");
 
 	} catch (IOException e) {
-      System.out.println("getting url fail"+e);
+     l.info("getting url fail"+e);
 	}
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	driver.get(url);
@@ -62,8 +63,8 @@ public void driverSetup(String browserName) throws InterruptedException{
 
 @AfterClass
 public void browserClose() {
-	//l.info("--->closing the browser");
-	//l.info(" ");
+	l.info("--->closing the browser");
+	System.out.println();
 	driver.quit();
 }
 
